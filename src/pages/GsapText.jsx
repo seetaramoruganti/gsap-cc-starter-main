@@ -62,3 +62,5 @@ const GsapText = () => {
     </main>
   );
 };
+
+export default GsapText;
