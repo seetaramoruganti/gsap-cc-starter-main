@@ -1,5 +1,5 @@
 import { useGSAP } from "@gsap/react";
-import gsap, { Elastic } from "gsap";
+import gsap from "gsap";
 
 const GsapTo = () => {
   // TODO: Implement the gsap.to() method
